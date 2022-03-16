@@ -1,3 +1,6 @@
 /*
 this is a comment in JS
+I added more comments
+and this is another comment
+I will write more if I can
 */
